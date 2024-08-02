@@ -31,7 +31,7 @@ Options:
 
 ## \[使用方法]
 
-NoAuth -n 不需要鉴权的接口地址(如/login、/register、/index.jsp、index.html等) -a 需要鉴权的接口地址 -u url地址
+NoAuth -n 不需要鉴权的接口地址(如/login、/register、/index.jsp、/index.html、/js/background.js等) -a 需要鉴权的接口地址 -u url地址
 
 例：NoAuth -n /login -a /admin/adduser -u [http://localhost:8080/](http://localhost:8080/ "http://localhost:8080/")&#x20;
 
